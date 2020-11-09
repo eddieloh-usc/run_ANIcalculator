@@ -1,0 +1,39 @@
+##### README ###############################################################
+##
+## This config file is made up of two TAB-SEPARATED columns. 
+## The first column lists the parameters and MUST NOT BE CHANGED. 
+## The second column is the value setting for the parameter, and must 
+## be in the form of a continuous string of characters WITHOUT SPACES.
+##
+## The command to run the entire analysis is... 
+## "perl run_ANIcalculator.pl configfilename"
+##
+##### Parameter Definitions and Notes ######################################
+##
+## ANIcalculator_Script - absolute or relative path to the ANIcalculator script
+## DB_directory  - absolute or relative path to directory containing all 
+##                 the .fna.gz files
+## Output_File   - absolute or relative path to result file
+## Set1Genome    - A text string which will be used to extract all filename(s)
+##                 in DB_directory containing the string, to be grouped into
+##                 Set1. More than one Set1Genome entries acceptable. 
+## Set2Genome    - A text string which will be used to extract all filename(s)
+##                 in DB_directory containing the string, to be grouped into
+##                 Set2. More than one Set2Genome entries acceptable.
+## Note: All genomes in Set1 will be compared against all genomes in Set2. 
+##
+############################################################################
+
+Parameter	Value
+ANIcalculator_Script	../ANIcalculator_v1/ANIcalculator
+DB_directory	./ExampleDB
+Output_File	exampleresultfile.txt
+Set1Genome	GCA_001969855.1
+Set1Genome	GCA_001719185.1
+Set1Genome	GCA_006457285.1
+Set2Genome	GCA_002270345.1
+Set2Genome	GCA_002159075.1
+
+
+##### END OF FILE ##########################################################
+

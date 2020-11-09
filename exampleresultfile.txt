@@ -1,0 +1,7 @@
+GENOME1	GENOME2	ANI(1->2)	ANI(2->1)	AF(1->2)	AF(2->1)
+GCA_001969855.1_ASM196985v1_cds_from_genomic.fna	GCA_002270345.1_ASM227034v1_cds_from_genomic.fna	69.31	69.30	0.14	0.18
+GCA_001969855.1_ASM196985v1_cds_from_genomic.fna	GCA_002159075.1_ASM215907v1_cds_from_genomic.fna	66.99	66.98	0.05	0.07
+GCA_001719185.1_ASM171918v1_cds_from_genomic.fna	GCA_002270345.1_ASM227034v1_cds_from_genomic.fna	69.48	69.49	0.16	0.18
+GCA_001719185.1_ASM171918v1_cds_from_genomic.fna	GCA_002159075.1_ASM215907v1_cds_from_genomic.fna	66.38	66.39	0.04	0.04
+GCA_006457285.1_ASM645728v1_cds_from_genomic.fna	GCA_002270345.1_ASM227034v1_cds_from_genomic.fna	69.92	69.92	0.12	0.21
+GCA_006457285.1_ASM645728v1_cds_from_genomic.fna	GCA_002159075.1_ASM215907v1_cds_from_genomic.fna	66.65	66.65	0.01	0.02
