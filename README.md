@@ -13,4 +13,4 @@ A perl script to automate submission of genomes to ANIcalculator.
 - A text file (filename to be specified in configuration file) compiling ANIcalculator results for all comparisons that were run. 
 
 ## Usage:
-perl run_ANIcalculator.pl config_example.txt
+`perl run_ANIcalculator.pl config_example.txt`
