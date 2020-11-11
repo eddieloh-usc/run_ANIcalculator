@@ -1,6 +1,7 @@
 # run_ANIcalculator.pl
 
-A perl script to automate submission of genomes to ANIcalculator (2014-127) version 1.0. By specifying two separate groups of genomes, the script will automate submission of all GroupA vs GroupB pairwise genome comparisons to ANIcalculator and consolidate the results into a single output file.
+A perl script to automate submission of genomes to ANIcalculator (2014-127) version 1.0.  
+By specifying two separate groups of genomes, the script will automate submission of all GroupA vs GroupB pairwise genome comparisons to ANIcalculator and consolidate the results into a single output file.
 
 ## Additional Software Requirement:
 - Program binary for ANIcalculator (2014-127) version 1.0 (available at https://ani.jgi.doe.gov/)  
