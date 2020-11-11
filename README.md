@@ -1,9 +1,9 @@
 # run_ANIcalculator.pl
 
-A perl script to automate submission of genomes to ANIcalculator.
+A perl script to automate submission of genomes to ANIcalculator (2014-127) version 1.0.
 
 ## Additional Software Requirement:
-- Program binary for ANIcalculator (TODO: include citation and link)  
+- Program binary for ANIcalculator (2014-127) version 1.0 (available at https://ani.jgi.doe.gov/)  
 
 ## Input:
 - A configuration file specifying the parameter settings for the script. See config_example.txt for file format and additional instructions and parameter definitions.  
